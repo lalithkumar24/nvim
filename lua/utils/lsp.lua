@@ -67,6 +67,7 @@ M.on_attach = function(event)
 			end, 50)
 		end, opts)
 	end
+end
 	-- === DAP keymaps ===
 	-- Languages with debugging configured: Python, C/C++, Rust, Zig, JavaScript, TypeScript
 	local debug_clients = {

@@ -43,6 +43,5 @@ require("lazy").setup({
 			"netrwPlugin",
 		},
 	},
-	install = { colorscheme = { "bamboo" } },
 	checker = { enabled = true },
 })
